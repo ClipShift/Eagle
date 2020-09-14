@@ -1,0 +1,17 @@
+Partlist
+
+Exported from schematic.brd at 12-12-2019 12:11
+
+EAGLE Version 9.2.0 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part       Value          Package      Library     Position (mm)         Orientation
+
+C1         0.1uF          C025-025X050 rcl         (25.4 22.352)         R90
+C2         0.1uF          C025-025X050 rcl         (19.558 22.606)       R90
+DIS1       NFD-5641AS     NFD-5641     display-nfd (24.63 10.16)         R0
+INPUT                     MA05-1       con-lstb    (38.68 43.29)         R180
+LED_DRIVER MAX7219CNG     DIL24-3      maxim       (26.06 30.416)        R0
+OUTPUT                    MA05-1       con-lstb    (17.71 43.29)         R0
+R1         33K            0207/10      rcl         (30.414 38.9)         R180

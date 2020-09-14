@@ -1,0 +1,10 @@
+Partlist exported from C:/Users/hites/Documents/EAGLE/projects/Second Project/Max7219 7 segment driver/schematic.sch at 12-12-2019 12:21
+
+Part       Value      Device          Package      Description                                   MF    MPN        OC_FARNELL OC_NEWARK SPICEPREFIX
+C1         0.1uF      C-EU025-025X050 C025-025X050 CAPACITOR, European symbol                                                          C          
+C2         0.1uF      C-EU025-025X050 C025-025X050 CAPACITOR, European symbol                                                          C          
+DIS1       NFD-5641AS NFD-5641AS      NFD-5641     Four Digit 0.56" CC Seven-Segment LED Display                                                  
+INPUT                 MA05-1          MA05-1       PIN HEADER                                                     unknown    unknown              
+LED_DRIVER MAX7219CNG MAX7219CNG      DIL24-3      LED DISPLAY DRIVER                            MAXIM MAX7219CNG 1523914    34C4018              
+OUTPUT                MA05-1          MA05-1       PIN HEADER                                                     unknown    unknown              
+R1         33K        R-EU_0207/10    0207/10      RESISTOR, European symbol                                                           R          
